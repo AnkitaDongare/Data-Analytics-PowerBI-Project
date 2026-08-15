@@ -20,7 +20,7 @@ The report contains an **Executive Overview Dashboard** under the title:
 
 **360 EDUCATION BUSINESS ANALYTICS PLATFORM**
 
-The dashboard uses cards and interactive visuals to present business metrics, including revenue-related measures. The report also contains branch-level filtering; for example, the model includes branch analysis such as **Karve Nagar**.
+The dashboard uses cards and interactive visuals to present business metrics, including revenue-related measures. The report also contains branch-level filtering
 
 ## 🧩 Data Model
 
@@ -61,15 +61,3 @@ This structure supports analysis across different education-business functions.
 
 The objective of the project is to provide an executive-level analytical view of education-business operations and enable users to explore important metrics through an interactive Power BI dashboard.
 
-## 📁 Repository Contents
-
-- `360_Education_Business_Analytics.pbix` — Power BI report
-- `README.md` — Project documentation
-- `Project_Documentation.pdf` — Detailed project documentation
-- `.gitignore` — Git ignore configuration
-
-> Dashboard screenshots are not included separately because the project presentation already contains the dashboard visuals.
-
-## ⚠️ Note
-
-The `.pbix` file is the primary interactive project file and should be opened using Microsoft Power BI Desktop.
